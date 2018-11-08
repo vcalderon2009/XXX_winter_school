@@ -1,4 +1,4 @@
-### Big Data in Astronomy - Winter School XXX
+# Big Data in Astronomy - Winter School XXX
 
 ## Description
 
