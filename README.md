@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vcalderon2009/XXX_winter_school/master)
+
 # Big Data in Astronomy - Winter School XXX
 
 ## Description
